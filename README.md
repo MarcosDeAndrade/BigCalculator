@@ -8,8 +8,6 @@
 
 ## ***Introducción***
 
-Proyecto realizado por [Marcos De Andrade](https://github.com/MarcosDeAndrade) y [Samuel Boada](https://github.com/systems-multimedia).
-
 Calculadora elaborada en lenguaje ensamblador MIPS R2000, implementa aritmetica de números largos manejados como cadenas de caracteres ascii de hasta 50 digitos (positivos y negrativos) inlcuyendo el manejo de hasta 2 decimales.
 
 EL programa es capaz de realizar las operaciones de suma, resta y multiplicación.
